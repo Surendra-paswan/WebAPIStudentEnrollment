@@ -146,3 +146,5 @@ D:\Nepal Menotor\Projects\ASP.NET CORE WEB API FROM BASIC\StudentRegistrationFor
 D:\Nepal Menotor\Projects\ASP.NET CORE WEB API FROM BASIC\StudentRegistrationForm\obj\Debug\net8.0\StudentRegistrationForm.genruntimeconfig.cache
 D:\Nepal Menotor\Projects\ASP.NET CORE WEB API FROM BASIC\StudentRegistrationForm\obj\Debug\net8.0\ref\StudentRegistrationForm.dll
 D:\Nepal Menotor\Projects\ASP.NET CORE WEB API FROM BASIC\StudentRegistrationForm\obj\Debug\net8.0\swae.build.ex.cache
+D:\Nepal Menotor\Projects\ASP.NET CORE WEB API FROM BASIC\StudentRegistrationForm\bin\Debug\net8.0\AutoMapper.dll
+D:\Nepal Menotor\Projects\ASP.NET CORE WEB API FROM BASIC\StudentRegistrationForm\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll

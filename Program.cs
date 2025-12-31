@@ -17,6 +17,9 @@ builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
 // ? Register StudentService (ADDED)
 builder.Services.AddScoped<IStudentService, StudentService>();
 
+// Add this line with your other service registrations
+builder.Services.AddAutoMapper(typeof(Program));
+
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
