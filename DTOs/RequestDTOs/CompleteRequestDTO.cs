@@ -1,5 +1,6 @@
 ﻿using StudentRegistrationForm.EnumValues;
 using System.ComponentModel.DataAnnotations;
+using Microsoft.AspNetCore.Http;
 
 namespace StudentRegistrationForm.DTOs.RequestDTOs
 {
@@ -12,6 +13,7 @@ namespace StudentRegistrationForm.DTOs.RequestDTOs
         public DateTime DateOfBirth { get; set; } = DateTime.MinValue;
         public string PlaceOfBirth { get; set; } = string.Empty;
         public string PhotoPath { get; set; } = string.Empty;
+
 
         // Personal Details
         public Gender Gender { get; set; }

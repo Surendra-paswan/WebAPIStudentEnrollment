@@ -16,6 +16,7 @@ namespace StudentRegistrationForm.Controllers
             _studentService = studentService;
         }
 
+        // ✅ KEEP AS [FromBody] - JSON ONLY
         [HttpPost("register")]
         public async Task<IActionResult> RegisterStudent([FromBody] CompleteRequestDTO studentDto)
         {
@@ -29,8 +30,62 @@ namespace StudentRegistrationForm.Controllers
                 { 
                     Message = "Student registered successfully.", 
                     Success = true,
-                    Data = response  // Contains Pid, not Id
+                    Data = response
                 });
+            }
+            catch (Exception ex)
+            {
+                return StatusCode(500, new { Message = $"Error: {ex.Message}", Success = false });
+            }
+        }
+
+        // ✅ Upload Files (First time - after registration)
+        [HttpPost("{pid:guid}/upload-files")]
+        public async Task<IActionResult> UploadStudentFiles(Guid pid, [FromForm] StudentFileUploadDTO fileDto)
+        {
+            if (fileDto == null)
+                return BadRequest(new { Message = "File data is null.", Success = false });
+
+            try
+            {
+                var response = await _studentService.UploadStudentFilesAsync(pid, fileDto);
+                return Ok(new
+                {
+                    Message = "Files uploaded successfully.",
+                    Success = true,
+                    Data = response
+                });
+            }
+            catch (KeyNotFoundException ex)
+            {
+                return NotFound(new { Message = ex.Message, Success = false });
+            }
+            catch (Exception ex)
+            {
+                return StatusCode(500, new { Message = $"Error: {ex.Message}", Success = false });
+            }
+        }
+
+        // ✅✅✅ NEW: Update Files (Replace existing files)
+        [HttpPut("{pid:guid}/update-files")]
+        public async Task<IActionResult> UpdateStudentFiles(Guid pid, [FromForm] StudentFileUploadDTO fileDto)
+        {
+            if (fileDto == null)
+                return BadRequest(new { Message = "File data is null.", Success = false });
+
+            try
+            {
+                var response = await _studentService.UploadStudentFilesAsync(pid, fileDto);
+                return Ok(new
+                {
+                    Message = "Files updated successfully.",
+                    Success = true,
+                    Data = response
+                });
+            }
+            catch (KeyNotFoundException ex)
+            {
+                return NotFound(new { Message = ex.Message, Success = false });
             }
             catch (Exception ex)
             {
@@ -49,7 +104,7 @@ namespace StudentRegistrationForm.Controllers
                     Message = "Students retrieved successfully.", 
                     Success = true,
                     Count = students.Count,
-                    Data = students  // All contain Pid, not Id
+                    Data = students
                 });
             }
             catch (Exception ex)
@@ -58,7 +113,6 @@ namespace StudentRegistrationForm.Controllers
             }
         }
 
-        // Public API uses Pid (GUID)
         [HttpGet("{pid:guid}")]
         public async Task<IActionResult> GetStudentByPid(Guid pid)
         {
@@ -69,7 +123,7 @@ namespace StudentRegistrationForm.Controllers
                 { 
                     Message = "Student retrieved successfully.", 
                     Success = true,
-                    Data = student  // Contains Pid, not Id
+                    Data = student
                 });
             }
             catch (KeyNotFoundException ex)
@@ -82,6 +136,7 @@ namespace StudentRegistrationForm.Controllers
             }
         }
 
+        // ✅ Update Student Data (JSON only - no files)
         [HttpPut("{pid:guid}")]
         public async Task<IActionResult> UpdateStudent(Guid pid, [FromBody] CompleteRequestDTO studentDto)
         {
@@ -95,7 +150,7 @@ namespace StudentRegistrationForm.Controllers
                 {
                     Message = "Student updated successfully.",
                     Success = true,
-                    Data = response  // Contains Pid, not Id
+                    Data = response
                 });
             }
             catch (KeyNotFoundException ex)

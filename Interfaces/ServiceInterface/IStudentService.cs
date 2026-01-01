@@ -6,15 +6,14 @@ namespace StudentRegistrationForm.Interfaces.ServiceInterface
 {
     public interface IStudentService
     {
-        // Internal methods use Id (int) - NOT exposed to API
-        Task<CompleteResponseDTO> GetStudentByIdAsync(int id);
-        
-        // Public API methods use Pid (Guid)
-        Task<CompleteResponseDTO> GetStudentByPidAsync(Guid pid);
-        
-        Task<List<CompleteResponseDTO>> GetAllStudentsAsync();
         Task<CompleteResponseDTO> AddStudentAsync(CompleteRequestDTO dto);
+        Task<CompleteResponseDTO> GetStudentByIdAsync(int id);
+        Task<CompleteResponseDTO> GetStudentByPidAsync(Guid pid);
+        Task<List<CompleteResponseDTO>> GetAllStudentsAsync();
+        Task DeleteStudentAsync(Guid pid);
         Task<CompleteResponseDTO> UpdateStudentAsync(Guid pid, CompleteRequestDTO dto);
-        Task DeleteStudentAsync(Guid pid);  // Use Pid for public API
+        
+        // ✅ NEW: Upload files for existing student
+        Task<CompleteResponseDTO> UploadStudentFilesAsync(Guid pid, StudentFileUploadDTO fileDto);
     }
 }

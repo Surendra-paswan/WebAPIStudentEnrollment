@@ -36,6 +36,154 @@
         }
       }
     },
+    "/api/Student/{pid}/upload-files": {
+      "post": {
+        "tags": [
+          "Student"
+        ],
+        "parameters": [
+          {
+            "name": "pid",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "format": "uuid"
+            }
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "multipart/form-data": {
+              "schema": {
+                "type": "object",
+                "properties": {
+                  "PhotoFile": {
+                    "type": "string",
+                    "format": "binary"
+                  },
+                  "SignatureFile": {
+                    "type": "string",
+                    "format": "binary"
+                  },
+                  "CitizenshipFile": {
+                    "type": "string",
+                    "format": "binary"
+                  },
+                  "CharacterCertificateFile": {
+                    "type": "string",
+                    "format": "binary"
+                  },
+                  "MarksheetFiles": {
+                    "type": "array",
+                    "items": {
+                      "type": "string",
+                      "format": "binary"
+                    }
+                  }
+                }
+              },
+              "encoding": {
+                "PhotoFile": {
+                  "style": "form"
+                },
+                "SignatureFile": {
+                  "style": "form"
+                },
+                "CitizenshipFile": {
+                  "style": "form"
+                },
+                "CharacterCertificateFile": {
+                  "style": "form"
+                },
+                "MarksheetFiles": {
+                  "style": "form"
+                }
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Student/{pid}/update-files": {
+      "put": {
+        "tags": [
+          "Student"
+        ],
+        "parameters": [
+          {
+            "name": "pid",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "format": "uuid"
+            }
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "multipart/form-data": {
+              "schema": {
+                "type": "object",
+                "properties": {
+                  "PhotoFile": {
+                    "type": "string",
+                    "format": "binary"
+                  },
+                  "SignatureFile": {
+                    "type": "string",
+                    "format": "binary"
+                  },
+                  "CitizenshipFile": {
+                    "type": "string",
+                    "format": "binary"
+                  },
+                  "CharacterCertificateFile": {
+                    "type": "string",
+                    "format": "binary"
+                  },
+                  "MarksheetFiles": {
+                    "type": "array",
+                    "items": {
+                      "type": "string",
+                      "format": "binary"
+                    }
+                  }
+                }
+              },
+              "encoding": {
+                "PhotoFile": {
+                  "style": "form"
+                },
+                "SignatureFile": {
+                  "style": "form"
+                },
+                "CitizenshipFile": {
+                  "style": "form"
+                },
+                "CharacterCertificateFile": {
+                  "style": "form"
+                },
+                "MarksheetFiles": {
+                  "style": "form"
+                }
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
     "/api/Student/all": {
       "get": {
         "tags": [

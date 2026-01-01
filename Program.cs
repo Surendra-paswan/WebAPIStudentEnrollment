@@ -17,6 +17,9 @@ builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
 // ? Register StudentService (ADDED)
 builder.Services.AddScoped<IStudentService, StudentService>();
 
+// ? Register FileService (NEW)
+builder.Services.AddScoped<IFileService, FileService>();
+
 // Add this line with your other service registrations
 builder.Services.AddAutoMapper(typeof(Program));
 
