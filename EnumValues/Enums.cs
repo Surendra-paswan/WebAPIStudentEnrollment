@@ -71,7 +71,20 @@
         Guardian,
         Other
     }
+    public enum AnnualFamilyIncome
+    {
+        NoIncome = 0,
 
+        Below200000 = 1,
+
+        Between200001And500000 = 2,
+
+        Between500001And1000000 = 3,
+
+        Between1000001And2000000 = 4,
+
+        Above2000000 = 5
+    }
     public enum Faculty
     {
         Science,
@@ -110,13 +123,24 @@
         Other
     }
 
+    //public enum AcademicYear
+    //{
+    //    FirstYear,
+    //    SecondYear,
+    //    ThirdYear,
+    //    FourthYear,
+    //    Other
+    //}
     public enum AcademicYear
     {
-        FirstYear,
-        SecondYear,
-        ThirdYear,
-        FourthYear,
-        Other
+        Year2078 = 2078,
+        Year2079 = 2079,
+        Year2080 = 2080,
+        Year2081 = 2081,
+        Year2082 = 2082,
+        Year2083 = 2083,
+        Year2084 = 2084,
+        Year2085 = 2085
     }
 
     public enum Semester

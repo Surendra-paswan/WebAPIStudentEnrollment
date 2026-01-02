@@ -139,7 +139,7 @@ namespace StudentRegistrationForm.DTOs.RequestDTOs
         public AnnualIncome? AnnualFamilyIncome { get; set; }
     }
 
-    // DTO for Academic History
+    //DTO for Academic History
     public class AcademicHistoryDTO
     {
         [Required]

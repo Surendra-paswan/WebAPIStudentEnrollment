@@ -67,7 +67,7 @@ namespace StudentRegistrationForm.DTOs.ResponseDTOs
         public string Ethnicity { get; set; } = string.Empty;
     }
 
-    // Response DTO for Contact Detail
+    //Response DTO for Contact Detail
     public class ContactDetailResponseDTO
     {
         public Guid Pid { get; set; }  // Changed from Id

@@ -1,6 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using StudentRegistrationForm.DTOs.RequestDTOs;
-using StudentRegistrationForm.DTOs.ResponseDTOs;
 using StudentRegistrationForm.Interfaces.ServiceInterface;
 
 namespace StudentRegistrationForm.Controllers
@@ -16,19 +15,31 @@ namespace StudentRegistrationForm.Controllers
             _studentService = studentService;
         }
 
-        // ✅ KEEP AS [FromBody] - JSON ONLY
         [HttpPost("register")]
         public async Task<IActionResult> RegisterStudent([FromBody] CompleteRequestDTO studentDto)
         {
-            if (studentDto == null)
-                return BadRequest(new { Message = "Student data is null.", Success = false });
+            // ✅ FluentValidation runs automatically before this!
+            if (!ModelState.IsValid)
+            {
+                return BadRequest(new
+                {
+                    Message = "Validation failed. Please check the errors.",
+                    Success = false,
+                    Errors = ModelState
+                        .Where(x => x.Value?.Errors.Count > 0)
+                        .ToDictionary(
+                            kvp => kvp.Key,
+                            kvp => kvp.Value?.Errors.Select(e => e.ErrorMessage).ToArray()
+                        )
+                });
+            }
 
             try
             {
                 var response = await _studentService.AddStudentAsync(studentDto);
-                return Ok(new 
-                { 
-                    Message = "Student registered successfully.", 
+                return Ok(new
+                {
+                    Message = "Student registered successfully.",
                     Success = true,
                     Data = response
                 });
@@ -39,12 +50,24 @@ namespace StudentRegistrationForm.Controllers
             }
         }
 
-        // ✅ Upload Files (First time - after registration)
         [HttpPost("{pid:guid}/upload-files")]
         public async Task<IActionResult> UploadStudentFiles(Guid pid, [FromForm] StudentFileUploadDTO fileDto)
         {
-            if (fileDto == null)
-                return BadRequest(new { Message = "File data is null.", Success = false });
+            // ✅ FluentValidation runs automatically!
+            if (!ModelState.IsValid)
+            {
+                return BadRequest(new
+                {
+                    Message = "File validation failed. Please check file requirements.",
+                    Success = false,
+                    Errors = ModelState
+                        .Where(x => x.Value?.Errors.Count > 0)
+                        .ToDictionary(
+                            kvp => kvp.Key,
+                            kvp => kvp.Value?.Errors.Select(e => e.ErrorMessage).ToArray()
+                        )
+                });
+            }
 
             try
             {
@@ -66,12 +89,23 @@ namespace StudentRegistrationForm.Controllers
             }
         }
 
-        // ✅✅✅ NEW: Update Files (Replace existing files)
         [HttpPut("{pid:guid}/update-files")]
         public async Task<IActionResult> UpdateStudentFiles(Guid pid, [FromForm] StudentFileUploadDTO fileDto)
         {
-            if (fileDto == null)
-                return BadRequest(new { Message = "File data is null.", Success = false });
+            if (!ModelState.IsValid)
+            {
+                return BadRequest(new
+                {
+                    Message = "File validation failed. Please check file requirements.",
+                    Success = false,
+                    Errors = ModelState
+                        .Where(x => x.Value?.Errors.Count > 0)
+                        .ToDictionary(
+                            kvp => kvp.Key,
+                            kvp => kvp.Value?.Errors.Select(e => e.ErrorMessage).ToArray()
+                        )
+                });
+            }
 
             try
             {
@@ -99,9 +133,9 @@ namespace StudentRegistrationForm.Controllers
             try
             {
                 var students = await _studentService.GetAllStudentsAsync();
-                return Ok(new 
-                { 
-                    Message = "Students retrieved successfully.", 
+                return Ok(new
+                {
+                    Message = "Students retrieved successfully.",
                     Success = true,
                     Count = students.Count,
                     Data = students
@@ -119,9 +153,9 @@ namespace StudentRegistrationForm.Controllers
             try
             {
                 var student = await _studentService.GetStudentByPidAsync(pid);
-                return Ok(new 
-                { 
-                    Message = "Student retrieved successfully.", 
+                return Ok(new
+                {
+                    Message = "Student retrieved successfully.",
                     Success = true,
                     Data = student
                 });
@@ -136,12 +170,23 @@ namespace StudentRegistrationForm.Controllers
             }
         }
 
-        // ✅ Update Student Data (JSON only - no files)
         [HttpPut("{pid:guid}")]
         public async Task<IActionResult> UpdateStudent(Guid pid, [FromBody] CompleteRequestDTO studentDto)
         {
-            if (studentDto == null)
-                return BadRequest(new { Message = "Student data is null.", Success = false });
+            if (!ModelState.IsValid)
+            {
+                return BadRequest(new
+                {
+                    Message = "Validation failed. Please check the errors.",
+                    Success = false,
+                    Errors = ModelState
+                        .Where(x => x.Value?.Errors.Count > 0)
+                        .ToDictionary(
+                            kvp => kvp.Key,
+                            kvp => kvp.Value?.Errors.Select(e => e.ErrorMessage).ToArray()
+                        )
+                });
+            }
 
             try
             {
@@ -169,9 +214,9 @@ namespace StudentRegistrationForm.Controllers
             try
             {
                 await _studentService.DeleteStudentAsync(pid);
-                return Ok(new 
-                { 
-                    Message = "Student deleted successfully.", 
+                return Ok(new
+                {
+                    Message = "Student deleted successfully.",
                     Success = true
                 });
             }

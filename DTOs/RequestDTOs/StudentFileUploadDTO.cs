@@ -4,7 +4,7 @@ namespace StudentRegistrationForm.DTOs.RequestDTOs
 {
     public class StudentFileUploadDTO
     {
-        // Student Photo
+        //Student Photo
         public IFormFile? PhotoFile { get; set; }
 
         // Document Files

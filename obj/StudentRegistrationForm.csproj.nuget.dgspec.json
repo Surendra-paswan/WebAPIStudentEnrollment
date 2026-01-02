@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Nepal Menotor\\Projects\\ASP.NET CORE WEB API FROM BASIC\\StudentRegistrationForm\\StudentRegistrationForm.csproj": {}
+    "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\StudentRegistrationForm.csproj": {}
   },
   "projects": {
-    "D:\\Nepal Menotor\\Projects\\ASP.NET CORE WEB API FROM BASIC\\StudentRegistrationForm\\StudentRegistrationForm.csproj": {
+    "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\StudentRegistrationForm.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Nepal Menotor\\Projects\\ASP.NET CORE WEB API FROM BASIC\\StudentRegistrationForm\\StudentRegistrationForm.csproj",
+        "projectUniqueName": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\StudentRegistrationForm.csproj",
         "projectName": "StudentRegistrationForm",
-        "projectPath": "D:\\Nepal Menotor\\Projects\\ASP.NET CORE WEB API FROM BASIC\\StudentRegistrationForm\\StudentRegistrationForm.csproj",
-        "packagesPath": "C:\\Users\\udayr\\.nuget\\packages\\",
-        "outputPath": "D:\\Nepal Menotor\\Projects\\ASP.NET CORE WEB API FROM BASIC\\StudentRegistrationForm\\obj\\",
+        "projectPath": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\StudentRegistrationForm.csproj",
+        "packagesPath": "C:\\Users\\Surendra kumar pasi\\.nuget\\packages\\",
+        "outputPath": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\udayr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Surendra kumar pasi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -53,6 +53,10 @@
             "AutoMapper.Extensions.Microsoft.DependencyInjection": {
               "target": "Package",
               "version": "[12.0.1, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[11.3.1, )"
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",

@@ -18,6 +18,6 @@ namespace StudentRegistrationForm.Models
 
         // Navigation property
         [ForeignKey(nameof(StudentId))]
-        public virtual Student Student { get; set; }
+        public virtual Student Student { get; set; } = null!;
     }
 }

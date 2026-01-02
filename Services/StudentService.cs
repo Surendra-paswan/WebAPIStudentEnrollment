@@ -217,7 +217,7 @@ namespace StudentRegistrationForm.Services
                 student.Declaration.UpdatedOn = now;
             }
 
-            // Update collections (clear and re-add)
+            //Update collections (clear and re-add)
             student.Addresses?.Clear();
             if (dto.Addresses != null)
             {

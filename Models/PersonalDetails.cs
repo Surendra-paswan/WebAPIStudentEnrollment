@@ -22,10 +22,10 @@ namespace StudentRegistrationForm.Models
         public string? Religion { get; set; }
 
         [Required]
-        public string Ethnicity { get; set; }
+        public string? Ethnicity { get; set; }
 
         // Navigation property
         [ForeignKey(nameof(StudentId))]
-        public virtual Student Student { get; set; }
+        public virtual Student Student { get; set; } = null!;
     }
 }

@@ -12,8 +12,8 @@ using StudentRegistrationForm.Data;
 namespace StudentRegistrationForm.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20251230115241_initialDbCreation")]
-    partial class initialDbCreation
+    [Migration("20260101093350_initialDB")]
+    partial class initialDB
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)

@@ -12,7 +12,7 @@ namespace StudentRegistrationForm.Interfaces.RepositoryInterfaces
         void Update(T entity);
         void Remove(T entity);
 
-        // Add this method for EF Core queries with Include
+        //Add this method for EF Core queries with Include
         IQueryable<T> GetQueryable();
     }
 }

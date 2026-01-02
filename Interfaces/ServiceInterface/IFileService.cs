@@ -6,6 +6,7 @@ namespace StudentRegistrationForm.Interfaces.ServiceInterface
     {
         Task<string> SaveFileAsync(IFormFile file, string folder);
         Task DeleteFileAsync(string filePath);
-        bool FileExists(string filePath);
+        bool FileExists(string filePath); 
+        //FileInfo GetFile(string filePath);
     }
 }

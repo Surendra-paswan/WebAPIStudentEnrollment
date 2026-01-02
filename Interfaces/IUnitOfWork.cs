@@ -20,7 +20,7 @@ namespace StudentRegistrationForm.Interfaces
         IGenericRepository<ExtracurricularDetail> ExtracurricularDetails { get; }
         IGenericRepository<StudentDocument> StudentDocuments { get; }
         IGenericRepository<Declaration> Declarations { get; }
-
+        
         Task<int> SaveChangesAsync(CancellationToken cancellationToken = default);
         Task BeginTransactionAsync(CancellationToken cancellationToken = default);
         Task CommitTransactionAsync(CancellationToken cancellationToken = default);

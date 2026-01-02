@@ -11,7 +11,7 @@ namespace StudentRegistrationForm.Mappings
         {
             var now = DateTime.UtcNow;
 
-            // ==================== REQUEST DTO → ENTITY MAPPINGS ====================
+            // REQUEST DTO → ENTITY MAPPINGS
             
             // Main Student mapping with timestamp handling
             CreateMap<CompleteRequestDTO, Student>()
@@ -142,7 +142,7 @@ namespace StudentRegistrationForm.Mappings
                 .ForMember(dest => dest.CreatedOn, opt => opt.MapFrom(_ => DateTime.UtcNow))
                 .ForMember(dest => dest.UpdatedOn, opt => opt.MapFrom(_ => DateTime.UtcNow));
 
-            // ==================== ENTITY → RESPONSE DTO MAPPINGS ====================
+            //ENTITY → RESPONSE DTO MAPPINGS 
             
             CreateMap<Student, CompleteResponseDTO>();
             CreateMap<PersonalDetails, PersonalDetailsResponseDTO>();

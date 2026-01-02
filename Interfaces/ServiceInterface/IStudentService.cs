@@ -13,7 +13,7 @@ namespace StudentRegistrationForm.Interfaces.ServiceInterface
         Task DeleteStudentAsync(Guid pid);
         Task<CompleteResponseDTO> UpdateStudentAsync(Guid pid, CompleteRequestDTO dto);
         
-        // ✅ NEW: Upload files for existing student
+        //NEW: Upload files for existing student
         Task<CompleteResponseDTO> UploadStudentFilesAsync(Guid pid, StudentFileUploadDTO fileDto);
     }
 }

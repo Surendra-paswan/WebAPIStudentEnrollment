@@ -4,6 +4,9 @@ using StudentRegistrationForm.Interfaces;
 using StudentRegistrationForm.Interfaces.ServiceInterface;
 using StudentRegistrationForm.Services;
 using StudentRegistrationForm.UnitOfWork;
+using FluentValidation;
+using FluentValidation.AspNetCore;
+using StudentRegistrationForm.Validators;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -14,14 +17,19 @@ builder.Services.AddDbContext<AppDbContext>(options =>
 // ? Register UnitOfWork
 builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
 
-// ? Register StudentService (ADDED)
+// ? Register StudentService
 builder.Services.AddScoped<IStudentService, StudentService>();
 
-// ? Register FileService (NEW)
+// ? Register FileService
 builder.Services.AddScoped<IFileService, FileService>();
 
-// Add this line with your other service registrations
+// Add AutoMapper
 builder.Services.AddAutoMapper(typeof(Program));
+
+// ? ADD FLUENTVALIDATION
+builder.Services.AddFluentValidationAutoValidation();
+builder.Services.AddFluentValidationClientsideAdapters();
+builder.Services.AddValidatorsFromAssemblyContaining<CompleteRequestDTOValidator>();
 
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();

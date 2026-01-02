@@ -35,18 +35,18 @@ namespace StudentRegistrationForm.Services
                 Directory.CreateDirectory(folderPath);
             }
 
-            // Generate unique filename
+            //Generate unique filename
             var fileExtension = Path.GetExtension(file.FileName);
             var fileName = $"{Guid.NewGuid()}{fileExtension}";
             var filePath = Path.Combine(folderPath, fileName);
 
-            // Save file
+            //Save file
             using (var stream = new FileStream(filePath, FileMode.Create))
             {
                 await file.CopyToAsync(stream);
             }
 
-            // Return relative path (for database storage)
+            //Return relative path (for database storage)
             return Path.Combine(folder, fileName).Replace("\\", "/");
         }
 

@@ -6,7 +6,7 @@ namespace StudentRegistrationForm.Models
 {
     public class AcademicEnrollment : BaseEntity
     {
-        [Required]
+        [Required] 
         public int StudentId { get; set; }  
 
         [Required]
@@ -41,6 +41,6 @@ namespace StudentRegistrationForm.Models
 
         // Navigation property
         [ForeignKey(nameof(StudentId))]
-        public virtual Student Student { get; set; }
+        public virtual Student Student { get; set; } = null!;
     }
 }
