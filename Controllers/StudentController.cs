@@ -18,7 +18,7 @@ namespace StudentRegistrationForm.Controllers
         [HttpPost("register")]
         public async Task<IActionResult> RegisterStudent([FromBody] CompleteRequestDTO studentDto)
         {
-            // ✅ FluentValidation runs automatically before this!
+            // FluentValidation runs automatically before this!
             if (!ModelState.IsValid)
             {
                 return BadRequest(new
@@ -53,7 +53,7 @@ namespace StudentRegistrationForm.Controllers
         [HttpPost("{pid:guid}/upload-files")]
         public async Task<IActionResult> UploadStudentFiles(Guid pid, [FromForm] StudentFileUploadDTO fileDto)
         {
-            // ✅ FluentValidation runs automatically!
+            // FluentValidation runs automatically!
             if (!ModelState.IsValid)
             {
                 return BadRequest(new

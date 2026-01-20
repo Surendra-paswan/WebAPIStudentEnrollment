@@ -7,7 +7,7 @@ namespace StudentRegistrationForm.Validators
     {
         public CompleteRequestDTOValidator()
         {
-            // ===== PERSONAL & BIOMETRIC DETAILS =====
+            //PERSONAL & BIOMETRIC DETAILS 
 
             RuleFor(x => x.FirstName)
                 .NotEmpty().WithMessage("First name is required")
@@ -52,7 +52,7 @@ namespace StudentRegistrationForm.Validators
                 .NotEmpty().WithMessage("Issue district is required")
                 .Length(2, 100).WithMessage("Issue district must be between 2 and 100 characters");
 
-            // ===== CONTACT DETAILS =====
+            //CONTACT DETAILS
 
             RuleFor(x => x.Email)
                 .NotEmpty().WithMessage("Email is required")
@@ -83,7 +83,7 @@ namespace StudentRegistrationForm.Validators
                 .MaximumLength(50).WithMessage("Religion cannot exceed 50 characters")
                 .When(x => !string.IsNullOrEmpty(x.Religion));
 
-            // ===== ACADEMIC ENROLLMENT DETAILS =====
+            //ACADEMIC ENROLLMENT DETAILS
 
             RuleFor(x => x.Faculty)
                 .IsInEnum().WithMessage("Invalid faculty");
@@ -117,7 +117,7 @@ namespace StudentRegistrationForm.Validators
             RuleFor(x => x.AcademicStatus)
                 .IsInEnum().WithMessage("Invalid academic status");
 
-            // ===== FINANCIAL DETAILS =====
+            // FINANCIAL DETAILS
 
             RuleFor(x => x.FeeCategory)
                 .IsInEnum().WithMessage("Invalid fee category");
@@ -133,7 +133,7 @@ namespace StudentRegistrationForm.Validators
                 .InclusiveBetween(0, 10000000).WithMessage("Scholarship amount must be between 0 and 10,000,000")
                 .When(x => x.ScholarshipAmount.HasValue);
 
-            // ===== BANK DETAILS =====
+            //BANK DETAILS
 
             RuleFor(x => x.AccountHolderName)
                 .NotEmpty().WithMessage("Account holder name is required")
@@ -152,7 +152,7 @@ namespace StudentRegistrationForm.Validators
                 .NotEmpty().WithMessage("Branch is required")
                 .Length(2, 100).WithMessage("Branch must be between 2 and 100 characters");
 
-            // ===== DECLARATION =====
+            //DECLARATION
 
             RuleFor(x => x.IsAgreed)
                 .Equal(true).WithMessage("You must agree to the terms and conditions");
@@ -164,7 +164,7 @@ namespace StudentRegistrationForm.Validators
                 .NotEmpty().WithMessage("Place is required")
                 .Length(2, 100).WithMessage("Place must be between 2 and 100 characters");
 
-            // ===== NESTED COLLECTIONS VALIDATION =====
+            //NESTED COLLECTIONS VALIDATION
 
             RuleForEach(x => x.Addresses).SetValidator(new AddressDTOValidator());
             RuleForEach(x => x.EmergencyContacts).SetValidator(new EmergencyContactDTOValidator());
@@ -184,7 +184,7 @@ namespace StudentRegistrationForm.Validators
         }
     }
 
-    // ===== ADDRESS VALIDATOR =====
+    //ADDRESS VALIDATOR
     public class AddressDTOValidator : AbstractValidator<AddressDTO>
     {
         public AddressDTOValidator()
@@ -218,7 +218,7 @@ namespace StudentRegistrationForm.Validators
         }
     }
 
-    // ===== EMERGENCY CONTACT VALIDATOR =====
+    //EMERGENCY CONTACT VALIDATOR
     public class EmergencyContactDTOValidator : AbstractValidator<EmergencyContactDTO>
     {
         public EmergencyContactDTOValidator()
@@ -237,7 +237,7 @@ namespace StudentRegistrationForm.Validators
         }
     }
 
-    // ===== DISABILITY DETAIL VALIDATOR =====
+    //DISABILITY DETAIL VALIDATOR 
     public class DisabilityDetailDTOValidator : AbstractValidator<DisabilityDetailDTO>
     {
         public DisabilityDetailDTOValidator()
@@ -251,7 +251,7 @@ namespace StudentRegistrationForm.Validators
         }
     }
 
-    // ===== PARENT/GUARDIAN VALIDATOR =====
+    //PARENT/GUARDIAN VALIDATOR
     public class ParentGuardianDTOValidator : AbstractValidator<ParentGuardianDTO>
     {
         public ParentGuardianDTOValidator()
@@ -291,7 +291,7 @@ namespace StudentRegistrationForm.Validators
         }
     }
 
-    // ===== ACADEMIC HISTORY VALIDATOR =====
+    //ACADEMIC HISTORY VALIDATOR
     public class AcademicHistoryDTOValidator : AbstractValidator<AcademicHistoryDTO>
     {
         public AcademicHistoryDTOValidator()
@@ -321,7 +321,7 @@ namespace StudentRegistrationForm.Validators
         }
     }
 
-    // ===== EXTRACURRICULAR DETAIL VALIDATOR =====
+    //EXTRACURRICULAR DETAIL VALIDATOR 
     public class ExtracurricularDetailDTOValidator : AbstractValidator<ExtracurricularDetailDTO>
     {
         public ExtracurricularDetailDTOValidator()

@@ -5,8 +5,8 @@ namespace StudentRegistrationForm.Models
     public class Student: BaseEntity
     {
         [Required]
-        public string FirstName { get; set; }
-        public string MiddleName { get; set; }
+        public string FirstName { get; set; } = string.Empty;
+        public string MiddleName { get; set; } 
         [Required]  
         public string LastName { get; set; }
         [Required]

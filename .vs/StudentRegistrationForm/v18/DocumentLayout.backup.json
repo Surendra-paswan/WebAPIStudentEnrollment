@@ -7,36 +7,24 @@
       "RelativeMoniker": "D:0:0:{A1B6E64D-B835-4630-ADAA-117230D4D7CE}|StudentRegistrationForm.csproj|solutionrelative:validators\\completerequestdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A1B6E64D-B835-4630-ADAA-117230D4D7CE}|StudentRegistrationForm.csproj|d:\\.net project\\internprojects\\studentregistrationform\\validators\\studentfileuploaddtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1B6E64D-B835-4630-ADAA-117230D4D7CE}|StudentRegistrationForm.csproj|solutionrelative:validators\\studentfileuploaddtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A1B6E64D-B835-4630-ADAA-117230D4D7CE}|StudentRegistrationForm.csproj|d:\\.net project\\internprojects\\studentregistrationform\\models\\financialdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B6E64D-B835-4630-ADAA-117230D4D7CE}|StudentRegistrationForm.csproj|solutionrelative:models\\financialdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A1B6E64D-B835-4630-ADAA-117230D4D7CE}|StudentRegistrationForm.csproj|d:\\.net project\\internprojects\\studentregistrationform\\enumvalues\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A1B6E64D-B835-4630-ADAA-117230D4D7CE}|StudentRegistrationForm.csproj|solutionrelative:enumvalues\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A1B6E64D-B835-4630-ADAA-117230D4D7CE}|StudentRegistrationForm.csproj|d:\\.net project\\internprojects\\studentregistrationform\\dtos\\requestdtos\\completerequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1B6E64D-B835-4630-ADAA-117230D4D7CE}|StudentRegistrationForm.csproj|solutionrelative:dtos\\requestdtos\\completerequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A1B6E64D-B835-4630-ADAA-117230D4D7CE}|StudentRegistrationForm.csproj|d:\\.net project\\internprojects\\studentregistrationform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B6E64D-B835-4630-ADAA-117230D4D7CE}|StudentRegistrationForm.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A1B6E64D-B835-4630-ADAA-117230D4D7CE}|StudentRegistrationForm.csproj|d:\\.net project\\internprojects\\studentregistrationform\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A1B6E64D-B835-4630-ADAA-117230D4D7CE}|StudentRegistrationForm.csproj|solutionrelative:controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A1B6E64D-B835-4630-ADAA-117230D4D7CE}|StudentRegistrationForm.csproj|d:\\.net project\\internprojects\\studentregistrationform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1B6E64D-B835-4630-ADAA-117230D4D7CE}|StudentRegistrationForm.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A1B6E64D-B835-4630-ADAA-117230D4D7CE}|StudentRegistrationForm.csproj|d:\\.net project\\internprojects\\studentregistrationform\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{A1B6E64D-B835-4630-ADAA-117230D4D7CE}|StudentRegistrationForm.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1B6E64D-B835-4630-ADAA-117230D4D7CE}|StudentRegistrationForm.csproj|d:\\.net project\\internprojects\\studentregistrationform\\dtos\\requestdtos\\studentfileuploaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1B6E64D-B835-4630-ADAA-117230D4D7CE}|StudentRegistrationForm.csproj|solutionrelative:dtos\\requestdtos\\studentfileuploaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1B6E64D-B835-4630-ADAA-117230D4D7CE}|StudentRegistrationForm.csproj|d:\\.net project\\internprojects\\studentregistrationform\\models\\studentdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1B6E64D-B835-4630-ADAA-117230D4D7CE}|StudentRegistrationForm.csproj|solutionrelative:models\\studentdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A1B6E64D-B835-4630-ADAA-117230D4D7CE}|StudentRegistrationForm.csproj|d:\\.net project\\internprojects\\studentregistrationform\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -47,12 +35,32 @@
       "RelativeMoniker": "D:0:0:{A1B6E64D-B835-4630-ADAA-117230D4D7CE}|StudentRegistrationForm.csproj|solutionrelative:models\\personaldetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A1B6E64D-B835-4630-ADAA-117230D4D7CE}|StudentRegistrationForm.csproj|d:\\.net project\\internprojects\\studentregistrationform\\models\\parentguardian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1B6E64D-B835-4630-ADAA-117230D4D7CE}|StudentRegistrationForm.csproj|solutionrelative:models\\parentguardian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A1B6E64D-B835-4630-ADAA-117230D4D7CE}|StudentRegistrationForm.csproj|d:\\.net project\\internprojects\\studentregistrationform\\models\\academicenrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B6E64D-B835-4630-ADAA-117230D4D7CE}|StudentRegistrationForm.csproj|solutionrelative:models\\academicenrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A1B6E64D-B835-4630-ADAA-117230D4D7CE}|StudentRegistrationForm.csproj|d:\\.net project\\internprojects\\studentregistrationform\\models\\financialdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1B6E64D-B835-4630-ADAA-117230D4D7CE}|StudentRegistrationForm.csproj|solutionrelative:models\\financialdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A1B6E64D-B835-4630-ADAA-117230D4D7CE}|StudentRegistrationForm.csproj|d:\\.net project\\internprojects\\studentregistrationform\\validators\\studentfileuploaddtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B6E64D-B835-4630-ADAA-117230D4D7CE}|StudentRegistrationForm.csproj|solutionrelative:validators\\studentfileuploaddtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B6E64D-B835-4630-ADAA-117230D4D7CE}|StudentRegistrationForm.csproj|d:\\.net project\\internprojects\\studentregistrationform\\studentregistrationform.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A1B6E64D-B835-4630-ADAA-117230D4D7CE}|StudentRegistrationForm.csproj|solutionrelative:studentregistrationform.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B6E64D-B835-4630-ADAA-117230D4D7CE}|StudentRegistrationForm.csproj|d:\\.net project\\internprojects\\studentregistrationform\\dtos\\requestdtos\\completerequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B6E64D-B835-4630-ADAA-117230D4D7CE}|StudentRegistrationForm.csproj|solutionrelative:dtos\\requestdtos\\completerequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B6E64D-B835-4630-ADAA-117230D4D7CE}|StudentRegistrationForm.csproj|d:\\.net project\\internprojects\\studentregistrationform\\dtos\\requestdtos\\studentfileuploaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B6E64D-B835-4630-ADAA-117230D4D7CE}|StudentRegistrationForm.csproj|solutionrelative:dtos\\requestdtos\\studentfileuploaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B6E64D-B835-4630-ADAA-117230D4D7CE}|StudentRegistrationForm.csproj|d:\\.net project\\internprojects\\studentregistrationform\\models\\studentdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B6E64D-B835-4630-ADAA-117230D4D7CE}|StudentRegistrationForm.csproj|solutionrelative:models\\studentdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B6E64D-B835-4630-ADAA-117230D4D7CE}|StudentRegistrationForm.csproj|d:\\.net project\\internprojects\\studentregistrationform\\models\\parentguardian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B6E64D-B835-4630-ADAA-117230D4D7CE}|StudentRegistrationForm.csproj|solutionrelative:models\\parentguardian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A1B6E64D-B835-4630-ADAA-117230D4D7CE}|StudentRegistrationForm.csproj|d:\\.net project\\internprojects\\studentregistrationform\\models\\extracurriculardetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -93,10 +101,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A1B6E64D-B835-4630-ADAA-117230D4D7CE}|StudentRegistrationForm.csproj|d:\\.net project\\internprojects\\studentregistrationform\\models\\academichistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A1B6E64D-B835-4630-ADAA-117230D4D7CE}|StudentRegistrationForm.csproj|solutionrelative:models\\academichistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1B6E64D-B835-4630-ADAA-117230D4D7CE}|StudentRegistrationForm.csproj|d:\\.net project\\internprojects\\studentregistrationform\\models\\academicenrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1B6E64D-B835-4630-ADAA-117230D4D7CE}|StudentRegistrationForm.csproj|solutionrelative:models\\academicenrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A1B6E64D-B835-4630-ADAA-117230D4D7CE}|StudentRegistrationForm.csproj|d:\\.net project\\internprojects\\studentregistrationform\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -143,10 +147,6 @@
       "RelativeMoniker": "D:0:0:{A1B6E64D-B835-4630-ADAA-117230D4D7CE}|StudentRegistrationForm.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A1B6E64D-B835-4630-ADAA-117230D4D7CE}|StudentRegistrationForm.csproj|d:\\.net project\\internprojects\\studentregistrationform\\studentregistrationform.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{A1B6E64D-B835-4630-ADAA-117230D4D7CE}|StudentRegistrationForm.csproj|solutionrelative:studentregistrationform.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A1B6E64D-B835-4630-ADAA-117230D4D7CE}|StudentRegistrationForm.csproj|d:\\.net project\\internprojects\\studentregistrationform\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A1B6E64D-B835-4630-ADAA-117230D4D7CE}|StudentRegistrationForm.csproj|solutionrelative:unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -171,11 +171,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "EmergencyContact.cs",
               "DocumentMoniker": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\Models\\EmergencyContact.cs",
               "RelativeDocumentMoniker": "Models\\EmergencyContact.cs",
@@ -184,8 +184,32 @@
               "ViewState": "AgIAAA0AAAAAAAAAAAAQwBYAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-25T10:07:16.929Z",
-              "IsPinned": true,
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAD8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T11:20:56.536Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PersonalDetails.cs",
+              "DocumentMoniker": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\Models\\PersonalDetails.cs",
+              "RelativeDocumentMoniker": "Models\\PersonalDetails.cs",
+              "ToolTip": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\Models\\PersonalDetails.cs",
+              "RelativeToolTip": "Models\\PersonalDetails.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwB0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T09:55:38.615Z"
             },
             {
               "$type": "Document",
@@ -195,48 +219,9 @@
               "RelativeDocumentMoniker": "Validators\\CompleteRequestDTOValidator.cs",
               "ToolTip": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\Validators\\CompleteRequestDTOValidator.cs",
               "RelativeToolTip": "Validators\\CompleteRequestDTOValidator.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAQwCMAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAAAJgAAABbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-02T10:21:16.314Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Enums.cs",
-              "DocumentMoniker": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\EnumValues\\Enums.cs",
-              "RelativeDocumentMoniker": "EnumValues\\Enums.cs",
-              "ToolTip": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\EnumValues\\Enums.cs",
-              "RelativeToolTip": "EnumValues\\Enums.cs",
-              "ViewState": "AgIAAJAAAAAAAAAAAAAQwIcAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-22T09:06:03.706Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "StudentFileUploadDTOValidator.cs",
-              "DocumentMoniker": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\Validators\\StudentFileUploadDTOValidator.cs",
-              "RelativeDocumentMoniker": "Validators\\StudentFileUploadDTOValidator.cs",
-              "ToolTip": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\Validators\\StudentFileUploadDTOValidator.cs",
-              "RelativeToolTip": "Validators\\StudentFileUploadDTOValidator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-02T10:21:43.503Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CompleteRequestDTO.cs",
-              "DocumentMoniker": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\DTOs\\RequestDTOs\\CompleteRequestDTO.cs",
-              "RelativeDocumentMoniker": "DTOs\\RequestDTOs\\CompleteRequestDTO.cs",
-              "ToolTip": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\DTOs\\RequestDTOs\\CompleteRequestDTO.cs",
-              "RelativeToolTip": "DTOs\\RequestDTOs\\CompleteRequestDTO.cs",
-              "ViewState": "AgIAAIcAAAAAAAAAAIA7wI4AAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-28T11:38:47.273Z",
               "EditorCaption": ""
             },
             {
@@ -247,235 +232,77 @@
               "RelativeDocumentMoniker": "Controllers\\StudentController.cs",
               "ToolTip": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\Controllers\\StudentController.cs",
               "RelativeToolTip": "Controllers\\StudentController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-25T11:44:34.418Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAACcAAAAkAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Enums.cs",
+              "DocumentMoniker": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\EnumValues\\Enums.cs",
+              "RelativeDocumentMoniker": "EnumValues\\Enums.cs",
+              "ToolTip": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\EnumValues\\Enums.cs",
+              "RelativeToolTip": "EnumValues\\Enums.cs",
+              "ViewState": "AgIAANkAAAAAAAAAAAAQwNcAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-25T11:20:56.536Z",
+              "WhenOpened": "2025-12-22T09:06:03.706Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-12-25T10:49:29.03Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "StudentFileUploadDTO.cs",
-              "DocumentMoniker": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\DTOs\\RequestDTOs\\StudentFileUploadDTO.cs",
-              "RelativeDocumentMoniker": "DTOs\\RequestDTOs\\StudentFileUploadDTO.cs",
-              "ToolTip": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\DTOs\\RequestDTOs\\StudentFileUploadDTO.cs",
-              "RelativeToolTip": "DTOs\\RequestDTOs\\StudentFileUploadDTO.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAWwAYAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-01T08:39:24.228Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ParentGuardian.cs",
-              "DocumentMoniker": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\Models\\ParentGuardian.cs",
-              "RelativeDocumentMoniker": "Models\\ParentGuardian.cs",
-              "ToolTip": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\Models\\ParentGuardian.cs",
-              "RelativeToolTip": "Models\\ParentGuardian.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAA3wBwAAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-25T10:10:56.858Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "PersonalDetails.cs",
-              "DocumentMoniker": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\Models\\PersonalDetails.cs",
-              "RelativeDocumentMoniker": "Models\\PersonalDetails.cs",
-              "ToolTip": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\Models\\PersonalDetails.cs",
-              "RelativeToolTip": "Models\\PersonalDetails.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAgwB0AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-25T09:55:38.615Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Student.cs",
-              "DocumentMoniker": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\Models\\Student.cs",
-              "RelativeDocumentMoniker": "Models\\Student.cs",
-              "ToolTip": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\Models\\Student.cs",
-              "RelativeToolTip": "Models\\Student.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAkwBYAAABBAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-22T08:34:21.943Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "StudentDocument.cs",
-              "DocumentMoniker": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\Models\\StudentDocument.cs",
-              "RelativeDocumentMoniker": "Models\\StudentDocument.cs",
-              "ToolTip": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\Models\\StudentDocument.cs",
-              "RelativeToolTip": "Models\\StudentDocument.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-25T10:37:40.577Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 1,
               "Title": "FinancialDetail.cs",
               "DocumentMoniker": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\Models\\FinancialDetail.cs",
               "RelativeDocumentMoniker": "Models\\FinancialDetail.cs",
               "ToolTip": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\Models\\FinancialDetail.cs",
               "RelativeToolTip": "Models\\FinancialDetail.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBQAAAA9AAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBQAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-25T10:33:37.935Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ExtracurricularDetail.cs",
-              "DocumentMoniker": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\Models\\ExtracurricularDetail.cs",
-              "RelativeDocumentMoniker": "Models\\ExtracurricularDetail.cs",
-              "ToolTip": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\Models\\ExtracurricularDetail.cs",
-              "RelativeToolTip": "Models\\ExtracurricularDetail.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAYwBYAAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-25T10:42:39.196Z",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-25T10:49:29.03Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "DisabilityDetail.cs",
-              "DocumentMoniker": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\Models\\DisabilityDetail.cs",
-              "RelativeDocumentMoniker": "Models\\DisabilityDetail.cs",
-              "ToolTip": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\Models\\DisabilityDetail.cs",
-              "RelativeToolTip": "Models\\DisabilityDetail.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBIAAAA9AAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "StudentFileUploadDTOValidator.cs",
+              "DocumentMoniker": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\Validators\\StudentFileUploadDTOValidator.cs",
+              "RelativeDocumentMoniker": "Validators\\StudentFileUploadDTOValidator.cs",
+              "ToolTip": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\Validators\\StudentFileUploadDTOValidator.cs",
+              "RelativeToolTip": "Validators\\StudentFileUploadDTOValidator.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-25T09:57:46.371Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-02T10:21:43.503Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Declaration.cs",
-              "DocumentMoniker": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\Models\\Declaration.cs",
-              "RelativeDocumentMoniker": "Models\\Declaration.cs",
-              "ToolTip": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\Models\\Declaration.cs",
-              "RelativeToolTip": "Models\\Declaration.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBUAAAA9AAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Models\\Student.cs",
+              "ToolTip": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\Models\\Student.cs",
+              "RelativeToolTip": "Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-25T10:40:58.303Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-22T08:34:21.943Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "ContactDetail.cs",
-              "DocumentMoniker": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\Models\\ContactDetail.cs",
-              "RelativeDocumentMoniker": "Models\\ContactDetail.cs",
-              "ToolTip": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\Models\\ContactDetail.cs",
-              "RelativeToolTip": "Models\\ContactDetail.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAYwBcAAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-25T10:03:53.729Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "CitizenshipDetail.cs",
-              "DocumentMoniker": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\Models\\CitizenshipDetail.cs",
-              "RelativeDocumentMoniker": "Models\\CitizenshipDetail.cs",
-              "ToolTip": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\Models\\CitizenshipDetail.cs",
-              "RelativeToolTip": "Models\\CitizenshipDetail.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAYwBUAAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-25T10:02:15.28Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "BaseEntity.cs",
-              "DocumentMoniker": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\Models\\BaseEntity.cs",
-              "RelativeDocumentMoniker": "Models\\BaseEntity.cs",
-              "ToolTip": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\Models\\BaseEntity.cs",
-              "RelativeToolTip": "Models\\BaseEntity.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAsAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-22T08:31:46.878Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "BankDetail.cs",
-              "DocumentMoniker": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\Models\\BankDetail.cs",
-              "RelativeDocumentMoniker": "Models\\BankDetail.cs",
-              "ToolTip": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\Models\\BankDetail.cs",
-              "RelativeToolTip": "Models\\BankDetail.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBkAAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-25T10:35:24.097Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Address.cs",
-              "DocumentMoniker": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\Models\\Address.cs",
-              "RelativeDocumentMoniker": "Models\\Address.cs",
-              "ToolTip": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\Models\\Address.cs",
-              "RelativeToolTip": "Models\\Address.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAA7wCEAAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-25T10:09:13.058Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "AcademicHistory.cs",
-              "DocumentMoniker": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\Models\\AcademicHistory.cs",
-              "RelativeDocumentMoniker": "Models\\AcademicHistory.cs",
-              "ToolTip": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\Models\\AcademicHistory.cs",
-              "RelativeToolTip": "Models\\AcademicHistory.cs",
-              "ViewState": "AgIAABMAAACAmJmZmZktwB4AAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-25T10:29:34.884Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 8,
               "Title": "AcademicEnrollment.cs",
               "DocumentMoniker": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\Models\\AcademicEnrollment.cs",
               "RelativeDocumentMoniker": "Models\\AcademicEnrollment.cs",
@@ -483,12 +310,179 @@
               "RelativeToolTip": "Models\\AcademicEnrollment.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-25T10:13:59.272Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-25T10:13:59.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StudentRegistrationForm.csproj",
+              "DocumentMoniker": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\StudentRegistrationForm.csproj",
+              "RelativeDocumentMoniker": "StudentRegistrationForm.csproj",
+              "ToolTip": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\StudentRegistrationForm.csproj",
+              "RelativeToolTip": "StudentRegistrationForm.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-01T09:57:05.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CompleteRequestDTO.cs",
+              "DocumentMoniker": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\DTOs\\RequestDTOs\\CompleteRequestDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\RequestDTOs\\CompleteRequestDTO.cs",
+              "ToolTip": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\DTOs\\RequestDTOs\\CompleteRequestDTO.cs",
+              "RelativeToolTip": "DTOs\\RequestDTOs\\CompleteRequestDTO.cs",
+              "ViewState": "AgIAAIcAAAAAAAAAAIA7wI4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T11:38:47.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StudentFileUploadDTO.cs",
+              "DocumentMoniker": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\DTOs\\RequestDTOs\\StudentFileUploadDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\RequestDTOs\\StudentFileUploadDTO.cs",
+              "ToolTip": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\DTOs\\RequestDTOs\\StudentFileUploadDTO.cs",
+              "RelativeToolTip": "DTOs\\RequestDTOs\\StudentFileUploadDTO.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAWwAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T08:39:24.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ParentGuardian.cs",
+              "DocumentMoniker": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\Models\\ParentGuardian.cs",
+              "RelativeDocumentMoniker": "Models\\ParentGuardian.cs",
+              "ToolTip": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\Models\\ParentGuardian.cs",
+              "RelativeToolTip": "Models\\ParentGuardian.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA3wBwAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T10:10:56.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StudentDocument.cs",
+              "DocumentMoniker": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\Models\\StudentDocument.cs",
+              "RelativeDocumentMoniker": "Models\\StudentDocument.cs",
+              "ToolTip": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\Models\\StudentDocument.cs",
+              "RelativeToolTip": "Models\\StudentDocument.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T10:37:40.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ExtracurricularDetail.cs",
+              "DocumentMoniker": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\Models\\ExtracurricularDetail.cs",
+              "RelativeDocumentMoniker": "Models\\ExtracurricularDetail.cs",
+              "ToolTip": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\Models\\ExtracurricularDetail.cs",
+              "RelativeToolTip": "Models\\ExtracurricularDetail.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwBYAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T10:42:39.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DisabilityDetail.cs",
+              "DocumentMoniker": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\Models\\DisabilityDetail.cs",
+              "RelativeDocumentMoniker": "Models\\DisabilityDetail.cs",
+              "ToolTip": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\Models\\DisabilityDetail.cs",
+              "RelativeToolTip": "Models\\DisabilityDetail.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBIAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T09:57:46.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Declaration.cs",
+              "DocumentMoniker": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\Models\\Declaration.cs",
+              "RelativeDocumentMoniker": "Models\\Declaration.cs",
+              "ToolTip": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\Models\\Declaration.cs",
+              "RelativeToolTip": "Models\\Declaration.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBUAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T10:40:58.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ContactDetail.cs",
+              "DocumentMoniker": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\Models\\ContactDetail.cs",
+              "RelativeDocumentMoniker": "Models\\ContactDetail.cs",
+              "ToolTip": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\Models\\ContactDetail.cs",
+              "RelativeToolTip": "Models\\ContactDetail.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwBcAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T10:03:53.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CitizenshipDetail.cs",
+              "DocumentMoniker": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\Models\\CitizenshipDetail.cs",
+              "RelativeDocumentMoniker": "Models\\CitizenshipDetail.cs",
+              "ToolTip": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\Models\\CitizenshipDetail.cs",
+              "RelativeToolTip": "Models\\CitizenshipDetail.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwBUAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T10:02:15.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Models\\BaseEntity.cs",
+              "ToolTip": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "Models\\BaseEntity.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T08:31:46.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "BankDetail.cs",
+              "DocumentMoniker": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\Models\\BankDetail.cs",
+              "RelativeDocumentMoniker": "Models\\BankDetail.cs",
+              "ToolTip": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\Models\\BankDetail.cs",
+              "RelativeToolTip": "Models\\BankDetail.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBkAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T10:35:24.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Address.cs",
+              "DocumentMoniker": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\Models\\Address.cs",
+              "RelativeDocumentMoniker": "Models\\Address.cs",
+              "ToolTip": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\Models\\Address.cs",
+              "RelativeToolTip": "Models\\Address.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAA7wCEAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T10:09:13.058Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 24,
+              "Title": "AcademicHistory.cs",
+              "DocumentMoniker": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\Models\\AcademicHistory.cs",
+              "RelativeDocumentMoniker": "Models\\AcademicHistory.cs",
+              "ToolTip": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\Models\\AcademicHistory.cs",
+              "RelativeToolTip": "Models\\AcademicHistory.cs",
+              "ViewState": "AgIAABMAAACAmJmZmZktwB4AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T10:29:34.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
               "Title": "AppDbContextModelSnapshot.cs",
               "DocumentMoniker": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\Migrations\\AppDbContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "Migrations\\AppDbContextModelSnapshot.cs",
@@ -496,12 +490,11 @@
               "RelativeToolTip": "Migrations\\AppDbContextModelSnapshot.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-01T10:52:28.404Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-01T10:52:28.404Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "CompleteResponseDTO.cs",
               "DocumentMoniker": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\DTOs\\ResponseDTOs\\CompleteResponseDTO.cs",
               "RelativeDocumentMoniker": "DTOs\\ResponseDTOs\\CompleteResponseDTO.cs",
@@ -509,12 +502,11 @@
               "RelativeToolTip": "DTOs\\ResponseDTOs\\CompleteResponseDTO.cs",
               "ViewState": "AgIAAEEAAAAAAAAAAAA7wEUAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-30T12:40:53.632Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-30T12:40:53.632Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "IUnitOfWork.cs",
               "DocumentMoniker": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\Interfaces\\IUnitOfWork.cs",
               "RelativeDocumentMoniker": "Interfaces\\IUnitOfWork.cs",
@@ -522,12 +514,11 @@
               "RelativeToolTip": "Interfaces\\IUnitOfWork.cs",
               "ViewState": "AgIAABEAAAAAAAAAAABYwBYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-26T11:49:26.206Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-26T11:49:26.206Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "StudentService.cs",
               "DocumentMoniker": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\Services\\StudentService.cs",
               "RelativeDocumentMoniker": "Services\\StudentService.cs",
@@ -535,12 +526,11 @@
               "RelativeToolTip": "Services\\StudentService.cs",
               "ViewState": "AgIAAM8AAAAA//////8lwNsAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-25T11:38:31.692Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-25T11:38:31.692Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "FileService.cs",
               "DocumentMoniker": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\Services\\FileService.cs",
               "RelativeDocumentMoniker": "Services\\FileService.cs",
@@ -548,12 +538,11 @@
               "RelativeToolTip": "Services\\FileService.cs",
               "ViewState": "AgIAADsAAAAAAAAAAAAgwDAAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-01T08:47:19.176Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-01T08:47:19.176Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 30,
               "Title": "IFileService.cs",
               "DocumentMoniker": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\Interfaces\\ServiceInterface\\IFileService.cs",
               "RelativeDocumentMoniker": "Interfaces\\ServiceInterface\\IFileService.cs",
@@ -561,12 +550,11 @@
               "RelativeToolTip": "Interfaces\\ServiceInterface\\IFileService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-01T08:46:50.036Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-01T08:46:50.036Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 31,
               "Title": "IGenericRepository.cs",
               "DocumentMoniker": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\Interfaces\\RepositoryInterfaces\\IGenericRepository.cs",
               "RelativeDocumentMoniker": "Interfaces\\RepositoryInterfaces\\IGenericRepository.cs",
@@ -574,12 +562,11 @@
               "RelativeToolTip": "Interfaces\\RepositoryInterfaces\\IGenericRepository.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAYwBIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-22T08:59:50.829Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-22T08:59:50.829Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 32,
               "Title": "IStudentService.cs",
               "DocumentMoniker": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\Interfaces\\ServiceInterface\\IStudentService.cs",
               "RelativeDocumentMoniker": "Interfaces\\ServiceInterface\\IStudentService.cs",
@@ -587,12 +574,11 @@
               "RelativeToolTip": "Interfaces\\ServiceInterface\\IStudentService.cs",
               "ViewState": "AgIAABEAAAAAAAAAAAAswBMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-25T11:37:10.784Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-25T11:37:10.784Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 33,
               "Title": "MappingProfile.cs",
               "DocumentMoniker": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\Mappings\\MappingProfile.cs",
               "RelativeDocumentMoniker": "Mappings\\MappingProfile.cs",
@@ -600,12 +586,11 @@
               "RelativeToolTip": "Mappings\\MappingProfile.cs",
               "ViewState": "AgIAAJcAAAAAAAAAAIBJwJAAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-31T09:18:23.452Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-31T09:18:23.452Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 34,
               "Title": "GenericRepository.cs",
               "DocumentMoniker": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\Repositories\\GenericRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\GenericRepository.cs",
@@ -613,12 +598,11 @@
               "RelativeToolTip": "Repositories\\GenericRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-25T11:01:26.28Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-25T11:01:26.28Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 35,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
@@ -626,21 +610,7 @@
               "RelativeToolTip": "Data\\AppDbContext.cs",
               "ViewState": "AgIAABgAAAAAAAAAAAA+wAkAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-22T08:54:02.594Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "StudentRegistrationForm.csproj",
-              "DocumentMoniker": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\StudentRegistrationForm.csproj",
-              "RelativeDocumentMoniker": "StudentRegistrationForm.csproj",
-              "ToolTip": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\StudentRegistrationForm.csproj",
-              "RelativeToolTip": "StudentRegistrationForm.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-01-01T09:57:05.606Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-22T08:54:02.594Z"
             },
             {
               "$type": "Document",
@@ -652,8 +622,7 @@
               "RelativeToolTip": "Migrations\\20260101093350_initialDB.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-01T09:33:50.857Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-01T09:33:50.857Z"
             },
             {
               "$type": "Document",
@@ -665,8 +634,7 @@
               "RelativeToolTip": "UnitOfWork\\UnitOfWork.cs",
               "ViewState": "AgIAAEoAAABAzMzMzMwjwIIAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-26T11:57:35.971Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-26T11:57:35.971Z"
             },
             {
               "$type": "Document",
