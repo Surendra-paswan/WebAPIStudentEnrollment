@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A1B6E64D-B835-4630-ADAA-117230D4D7CE}|StudentRegistrationForm.csproj|d:\\.net project\\internprojects\\studentregistrationform\\validators\\completerequestdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1B6E64D-B835-4630-ADAA-117230D4D7CE}|StudentRegistrationForm.csproj|solutionrelative:validators\\completerequestdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1B6E64D-B835-4630-ADAA-117230D4D7CE}|StudentRegistrationForm.csproj|d:\\.net project\\internprojects\\studentregistrationform\\models\\financialdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1B6E64D-B835-4630-ADAA-117230D4D7CE}|StudentRegistrationForm.csproj|solutionrelative:models\\financialdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A1B6E64D-B835-4630-ADAA-117230D4D7CE}|StudentRegistrationForm.csproj|d:\\.net project\\internprojects\\studentregistrationform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B6E64D-B835-4630-ADAA-117230D4D7CE}|StudentRegistrationForm.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A1B6E64D-B835-4630-ADAA-117230D4D7CE}|StudentRegistrationForm.csproj|d:\\.net project\\internprojects\\studentregistrationform\\enumvalues\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A1B6E64D-B835-4630-ADAA-117230D4D7CE}|StudentRegistrationForm.csproj|solutionrelative:enumvalues\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A1B6E64D-B835-4630-ADAA-117230D4D7CE}|StudentRegistrationForm.csproj|d:\\.net project\\internprojects\\studentregistrationform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1B6E64D-B835-4630-ADAA-117230D4D7CE}|StudentRegistrationForm.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A1B6E64D-B835-4630-ADAA-117230D4D7CE}|StudentRegistrationForm.csproj|d:\\.net project\\internprojects\\studentregistrationform\\validators\\completerequestdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B6E64D-B835-4630-ADAA-117230D4D7CE}|StudentRegistrationForm.csproj|solutionrelative:validators\\completerequestdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B6E64D-B835-4630-ADAA-117230D4D7CE}|StudentRegistrationForm.csproj|d:\\.net project\\internprojects\\studentregistrationform\\models\\financialdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B6E64D-B835-4630-ADAA-117230D4D7CE}|StudentRegistrationForm.csproj|solutionrelative:models\\financialdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A1B6E64D-B835-4630-ADAA-117230D4D7CE}|StudentRegistrationForm.csproj|d:\\.net project\\internprojects\\studentregistrationform\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -171,7 +171,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
@@ -188,32 +188,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAADYAAAAAAAAAAAAAAD8AAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-25T11:20:56.536Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "PersonalDetails.cs",
-              "DocumentMoniker": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\Models\\PersonalDetails.cs",
-              "RelativeDocumentMoniker": "Models\\PersonalDetails.cs",
-              "ToolTip": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\Models\\PersonalDetails.cs",
-              "RelativeToolTip": "Models\\PersonalDetails.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAgwB0AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-25T09:55:38.615Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "CompleteRequestDTOValidator.cs",
               "DocumentMoniker": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\Validators\\CompleteRequestDTOValidator.cs",
               "RelativeDocumentMoniker": "Validators\\CompleteRequestDTOValidator.cs",
@@ -239,20 +214,45 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Enums.cs",
               "DocumentMoniker": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\EnumValues\\Enums.cs",
               "RelativeDocumentMoniker": "EnumValues\\Enums.cs",
               "ToolTip": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\EnumValues\\Enums.cs",
               "RelativeToolTip": "EnumValues\\Enums.cs",
-              "ViewState": "AgIAANkAAAAAAAAAAAAQwNcAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAANQAAAAAAAAAAAAAwN8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-22T09:06:03.706Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T11:20:56.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PersonalDetails.cs",
+              "DocumentMoniker": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\Models\\PersonalDetails.cs",
+              "RelativeDocumentMoniker": "Models\\PersonalDetails.cs",
+              "ToolTip": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\Models\\PersonalDetails.cs",
+              "RelativeToolTip": "Models\\PersonalDetails.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwB0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T09:55:38.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "FinancialDetail.cs",
               "DocumentMoniker": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\Models\\FinancialDetail.cs",
               "RelativeDocumentMoniker": "Models\\FinancialDetail.cs",
