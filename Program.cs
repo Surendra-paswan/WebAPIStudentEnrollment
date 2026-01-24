@@ -1,11 +1,12 @@
+using FluentValidation;
+using FluentValidation.AspNetCore;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.FileProviders;
 using StudentRegistrationForm.Data;
 using StudentRegistrationForm.Interfaces;
 using StudentRegistrationForm.Interfaces.ServiceInterface;
 using StudentRegistrationForm.Services;
 using StudentRegistrationForm.UnitOfWork;
-using FluentValidation;
-using FluentValidation.AspNetCore;
 using StudentRegistrationForm.Validators;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -46,6 +47,20 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 var app = builder.Build();
+
+// Allow frontend to read files
+app.UseStaticFiles(new StaticFileOptions
+{
+    FileProvider = new PhysicalFileProvider(Path.Combine(builder.Environment.ContentRootPath, "uploads")),
+    RequestPath = "/files",
+    ServeUnknownFileTypes = true
+});
+// In Program.cs, add:
+app.UseStaticFiles(new StaticFileOptions
+{
+    FileProvider = new PhysicalFileProvider(Path.Combine(builder.Environment.ContentRootPath, "uploads")),
+    RequestPath = "/uploads"
+});
 
 if (app.Environment.IsDevelopment())
 {
