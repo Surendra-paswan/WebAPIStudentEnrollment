@@ -3,16 +3,23 @@
   "WorkspaceRootPath": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A1B6E64D-B835-4630-ADAA-117230D4D7CE}|StudentRegistrationForm.csproj|d:\\.net project\\internprojects\\studentregistrationform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B6E64D-B835-4630-ADAA-117230D4D7CE}|StudentRegistrationForm.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B6E64D-B835-4630-ADAA-117230D4D7CE}|StudentRegistrationForm.csproj|d:\\.net project\\internprojects\\studentregistrationform\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A1B6E64D-B835-4630-ADAA-117230D4D7CE}|StudentRegistrationForm.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A1B6E64D-B835-4630-ADAA-117230D4D7CE}|StudentRegistrationForm.csproj|d:\\.net project\\internprojects\\studentregistrationform\\services\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A1B6E64D-B835-4630-ADAA-117230D4D7CE}|StudentRegistrationForm.csproj|solutionrelative:services\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A1B6E64D-B835-4630-ADAA-117230D4D7CE}|StudentRegistrationForm.csproj|d:\\.net project\\internprojects\\studentregistrationform\\dtos\\requestdtos\\studentfileuploaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1B6E64D-B835-4630-ADAA-117230D4D7CE}|StudentRegistrationForm.csproj|solutionrelative:dtos\\requestdtos\\studentfileuploaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Surendra kumar pasi\\AppData\\Local\\Temp\\VisualStudio\\copilot-vs\\plan-6af693d8-4537-45c2-8938-2905520886ae.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}|MarkdownSecurePreview"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A1B6E64D-B835-4630-ADAA-117230D4D7CE}|StudentRegistrationForm.csproj|d:\\.net project\\internprojects\\studentregistrationform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1B6E64D-B835-4630-ADAA-117230D4D7CE}|StudentRegistrationForm.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A1B6E64D-B835-4630-ADAA-117230D4D7CE}|StudentRegistrationForm.csproj|d:\\.net project\\internprojects\\studentregistrationform\\dtos\\requestdtos\\studentfileuploaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B6E64D-B835-4630-ADAA-117230D4D7CE}|StudentRegistrationForm.csproj|solutionrelative:dtos\\requestdtos\\studentfileuploaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A1B6E64D-B835-4630-ADAA-117230D4D7CE}|StudentRegistrationForm.csproj|d:\\.net project\\internprojects\\studentregistrationform\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -49,10 +56,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A1B6E64D-B835-4630-ADAA-117230D4D7CE}|StudentRegistrationForm.csproj|d:\\.net project\\internprojects\\studentregistrationform\\validators\\completerequestdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A1B6E64D-B835-4630-ADAA-117230D4D7CE}|StudentRegistrationForm.csproj|solutionrelative:validators\\completerequestdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1B6E64D-B835-4630-ADAA-117230D4D7CE}|StudentRegistrationForm.csproj|d:\\.net project\\internprojects\\studentregistrationform\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A1B6E64D-B835-4630-ADAA-117230D4D7CE}|StudentRegistrationForm.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A1B6E64D-B835-4630-ADAA-117230D4D7CE}|StudentRegistrationForm.csproj|d:\\.net project\\internprojects\\studentregistrationform\\models\\academicenrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -162,6 +165,9 @@
     {
       "AbsoluteMoniker": "D:0:0:{A1B6E64D-B835-4630-ADAA-117230D4D7CE}|StudentRegistrationForm.csproj|d:\\.net project\\internprojects\\studentregistrationform\\migrations\\20260101093350_initialdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A1B6E64D-B835-4630-ADAA-117230D4D7CE}|StudentRegistrationForm.csproj|solutionrelative:migrations\\20260101093350_initialdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Surendra kumar pasi\\AppData\\Local\\Temp\\CopilotBaseline\\Deleted\\-1522206259\\.gitkeep||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -171,11 +177,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "EmergencyContact.cs",
               "DocumentMoniker": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\Models\\EmergencyContact.cs",
               "RelativeDocumentMoniker": "Models\\EmergencyContact.cs",
@@ -188,7 +194,67 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAEQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T11:20:56.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FileService.cs",
+              "DocumentMoniker": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\Services\\FileService.cs",
+              "RelativeDocumentMoniker": "Services\\FileService.cs",
+              "ToolTip": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\Services\\FileService.cs",
+              "RelativeToolTip": "Services\\FileService.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAawCAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T08:47:19.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": ".gitkeep",
+              "DocumentMoniker": "C:\\Users\\Surendra kumar pasi\\AppData\\Local\\Temp\\CopilotBaseline\\Deleted\\-1522206259\\.gitkeep",
+              "ToolTip": "C:\\Users\\Surendra kumar pasi\\AppData\\Local\\Temp\\CopilotBaseline\\Deleted\\-1522206259\\.gitkeep",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-01-24T11:34:31.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-25T10:49:29.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "plan-6af693d8-4537-45c2-8938-2905520886ae.md [Preview]",
+              "DocumentMoniker": "C:\\Users\\Surendra kumar pasi\\AppData\\Local\\Temp\\VisualStudio\\copilot-vs\\plan-6af693d8-4537-45c2-8938-2905520886ae.md",
+              "ToolTip": "C:\\Users\\Surendra kumar pasi\\AppData\\Local\\Temp\\VisualStudio\\copilot-vs\\plan-6af693d8-4537-45c2-8938-2905520886ae.md [Preview]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-01-24T11:15:14.438Z",
+              "EditorCaption": " [Preview]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "StudentFileUploadDTO.cs",
               "DocumentMoniker": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\DTOs\\RequestDTOs\\StudentFileUploadDTO.cs",
               "RelativeDocumentMoniker": "DTOs\\RequestDTOs\\StudentFileUploadDTO.cs",
@@ -196,25 +262,11 @@
               "RelativeToolTip": "DTOs\\RequestDTOs\\StudentFileUploadDTO.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-01T08:39:24.228Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-01T08:39:24.228Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAADgAAAAAAAAAAAAQwD4AAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-25T11:20:56.536Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Student.cs",
               "DocumentMoniker": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\Models\\Student.cs",
               "RelativeDocumentMoniker": "Models\\Student.cs",
@@ -226,20 +278,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "FileService.cs",
-              "DocumentMoniker": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\Services\\FileService.cs",
-              "RelativeDocumentMoniker": "Services\\FileService.cs",
-              "ToolTip": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\Services\\FileService.cs",
-              "RelativeToolTip": "Services\\FileService.cs",
-              "ViewState": "AgIAADkAAAAAAAAAAAAAwD4AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-01T08:47:19.176Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "CompleteRequestDTO.cs",
               "DocumentMoniker": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\DTOs\\RequestDTOs\\CompleteRequestDTO.cs",
               "RelativeDocumentMoniker": "DTOs\\RequestDTOs\\CompleteRequestDTO.cs",
@@ -247,12 +286,11 @@
               "RelativeToolTip": "DTOs\\RequestDTOs\\CompleteRequestDTO.cs",
               "ViewState": "AgIAAIYAAAAAAAAAAAAhwI0AAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-28T11:38:47.273Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-28T11:38:47.273Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "StudentController.cs",
               "DocumentMoniker": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\Controllers\\StudentController.cs",
               "RelativeDocumentMoniker": "Controllers\\StudentController.cs",
@@ -260,12 +298,11 @@
               "RelativeToolTip": "Controllers\\StudentController.cs",
               "ViewState": "AgIAACoAAAAAAAAAAAAYwDQAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-25T11:44:34.418Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-25T11:44:34.418Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Enums.cs",
               "DocumentMoniker": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\EnumValues\\Enums.cs",
               "RelativeDocumentMoniker": "EnumValues\\Enums.cs",
@@ -273,12 +310,11 @@
               "RelativeToolTip": "EnumValues\\Enums.cs",
               "ViewState": "AgIAAEkAAAAAAAAAAAAtwIUAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-22T09:06:03.706Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-22T09:06:03.706Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "ParentGuardian.cs",
               "DocumentMoniker": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\Models\\ParentGuardian.cs",
               "RelativeDocumentMoniker": "Models\\ParentGuardian.cs",
@@ -290,7 +326,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "StudentDocument.cs",
               "DocumentMoniker": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\Models\\StudentDocument.cs",
               "RelativeDocumentMoniker": "Models\\StudentDocument.cs",
@@ -302,7 +338,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "FinancialDetail.cs",
               "DocumentMoniker": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\Models\\FinancialDetail.cs",
               "RelativeDocumentMoniker": "Models\\FinancialDetail.cs",
@@ -314,7 +350,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "PersonalDetails.cs",
               "DocumentMoniker": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\Models\\PersonalDetails.cs",
               "RelativeDocumentMoniker": "Models\\PersonalDetails.cs",
@@ -326,7 +362,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "CompleteRequestDTOValidator.cs",
               "DocumentMoniker": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\Validators\\CompleteRequestDTOValidator.cs",
               "RelativeDocumentMoniker": "Validators\\CompleteRequestDTOValidator.cs",
@@ -338,19 +374,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-12-25T10:49:29.03Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "StudentFileUploadDTOValidator.cs",
               "DocumentMoniker": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\Validators\\StudentFileUploadDTOValidator.cs",
               "RelativeDocumentMoniker": "Validators\\StudentFileUploadDTOValidator.cs",
@@ -362,7 +386,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "AcademicEnrollment.cs",
               "DocumentMoniker": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\Models\\AcademicEnrollment.cs",
               "RelativeDocumentMoniker": "Models\\AcademicEnrollment.cs",
@@ -374,7 +398,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "StudentRegistrationForm.csproj",
               "DocumentMoniker": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\StudentRegistrationForm.csproj",
               "RelativeDocumentMoniker": "StudentRegistrationForm.csproj",
@@ -382,11 +406,12 @@
               "RelativeToolTip": "StudentRegistrationForm.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-01-01T09:57:05.606Z"
+              "WhenOpened": "2026-01-01T09:57:05.606Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "ExtracurricularDetail.cs",
               "DocumentMoniker": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\Models\\ExtracurricularDetail.cs",
               "RelativeDocumentMoniker": "Models\\ExtracurricularDetail.cs",
@@ -398,7 +423,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "DisabilityDetail.cs",
               "DocumentMoniker": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\Models\\DisabilityDetail.cs",
               "RelativeDocumentMoniker": "Models\\DisabilityDetail.cs",
@@ -410,7 +435,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "Declaration.cs",
               "DocumentMoniker": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\Models\\Declaration.cs",
               "RelativeDocumentMoniker": "Models\\Declaration.cs",
@@ -422,7 +447,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "ContactDetail.cs",
               "DocumentMoniker": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\Models\\ContactDetail.cs",
               "RelativeDocumentMoniker": "Models\\ContactDetail.cs",
@@ -434,7 +459,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "CitizenshipDetail.cs",
               "DocumentMoniker": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\Models\\CitizenshipDetail.cs",
               "RelativeDocumentMoniker": "Models\\CitizenshipDetail.cs",
@@ -446,7 +471,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\Models\\BaseEntity.cs",
               "RelativeDocumentMoniker": "Models\\BaseEntity.cs",
@@ -458,7 +483,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "BankDetail.cs",
               "DocumentMoniker": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\Models\\BankDetail.cs",
               "RelativeDocumentMoniker": "Models\\BankDetail.cs",
@@ -470,7 +495,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "Address.cs",
               "DocumentMoniker": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\Models\\Address.cs",
               "RelativeDocumentMoniker": "Models\\Address.cs",
@@ -482,7 +507,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "AcademicHistory.cs",
               "DocumentMoniker": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\Models\\AcademicHistory.cs",
               "RelativeDocumentMoniker": "Models\\AcademicHistory.cs",
@@ -494,7 +519,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "AppDbContextModelSnapshot.cs",
               "DocumentMoniker": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\Migrations\\AppDbContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "Migrations\\AppDbContextModelSnapshot.cs",
@@ -506,7 +531,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "CompleteResponseDTO.cs",
               "DocumentMoniker": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\DTOs\\ResponseDTOs\\CompleteResponseDTO.cs",
               "RelativeDocumentMoniker": "DTOs\\ResponseDTOs\\CompleteResponseDTO.cs",
@@ -518,7 +543,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "IUnitOfWork.cs",
               "DocumentMoniker": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\Interfaces\\IUnitOfWork.cs",
               "RelativeDocumentMoniker": "Interfaces\\IUnitOfWork.cs",
@@ -530,7 +555,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 30,
               "Title": "StudentService.cs",
               "DocumentMoniker": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\Services\\StudentService.cs",
               "RelativeDocumentMoniker": "Services\\StudentService.cs",
@@ -542,7 +567,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 31,
               "Title": "IFileService.cs",
               "DocumentMoniker": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\Interfaces\\ServiceInterface\\IFileService.cs",
               "RelativeDocumentMoniker": "Interfaces\\ServiceInterface\\IFileService.cs",
@@ -554,7 +579,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 32,
               "Title": "IGenericRepository.cs",
               "DocumentMoniker": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\Interfaces\\RepositoryInterfaces\\IGenericRepository.cs",
               "RelativeDocumentMoniker": "Interfaces\\RepositoryInterfaces\\IGenericRepository.cs",
@@ -566,7 +591,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 33,
               "Title": "IStudentService.cs",
               "DocumentMoniker": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\Interfaces\\ServiceInterface\\IStudentService.cs",
               "RelativeDocumentMoniker": "Interfaces\\ServiceInterface\\IStudentService.cs",
@@ -578,7 +603,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 34,
               "Title": "MappingProfile.cs",
               "DocumentMoniker": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\Mappings\\MappingProfile.cs",
               "RelativeDocumentMoniker": "Mappings\\MappingProfile.cs",
@@ -590,7 +615,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 35,
               "Title": "GenericRepository.cs",
               "DocumentMoniker": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\Repositories\\GenericRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\GenericRepository.cs",
@@ -602,7 +627,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 36,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
@@ -614,7 +639,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 41,
               "Title": "20260101093350_initialDB.cs",
               "DocumentMoniker": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\Migrations\\20260101093350_initialDB.cs",
               "RelativeDocumentMoniker": "Migrations\\20260101093350_initialDB.cs",
@@ -626,7 +651,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 37,
               "Title": "UnitOfWork.cs",
               "DocumentMoniker": "D:\\.NET PROJECT\\InternProjects\\StudentRegistrationForm\\UnitOfWork\\UnitOfWork.cs",
               "RelativeDocumentMoniker": "UnitOfWork\\UnitOfWork.cs",
@@ -638,7 +663,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 38,
               "Title": "20251230114604_initialDbCreation.cs",
               "DocumentMoniker": "D:\\Nepal Menotor\\Projects\\ASP.NET CORE WEB API FROM BASIC\\StudentRegistrationForm\\Migrations\\20251230114604_initialDbCreation.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\Nepal Menotor\\Projects\\ASP.NET CORE WEB API FROM BASIC\\StudentRegistrationForm\\Migrations\\20251230114604_initialDbCreation.cs",
@@ -649,7 +674,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 39,
               "Title": "20251230113603_initialDbCreation.cs",
               "DocumentMoniker": "D:\\Nepal Menotor\\Projects\\ASP.NET CORE WEB API FROM BASIC\\StudentRegistrationForm\\Migrations\\20251230113603_initialDbCreation.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\Nepal Menotor\\Projects\\ASP.NET CORE WEB API FROM BASIC\\StudentRegistrationForm\\Migrations\\20251230113603_initialDbCreation.cs",
@@ -660,7 +685,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 40,
               "Title": "20251229081914_InitialDatabaseExecution.cs",
               "DocumentMoniker": "D:\\Nepal Menotor\\Projects\\ASP.NET CORE WEB API FROM BASIC\\StudentRegistrationForm\\Migrations\\20251229081914_InitialDatabaseExecution.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\Nepal Menotor\\Projects\\ASP.NET CORE WEB API FROM BASIC\\StudentRegistrationForm\\Migrations\\20251229081914_InitialDatabaseExecution.cs",

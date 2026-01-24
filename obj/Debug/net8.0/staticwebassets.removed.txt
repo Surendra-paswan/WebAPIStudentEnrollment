@@ -1,0 +1,4 @@
+D:\.NET PROJECT\InternProjects\StudentRegistrationForm\wwwroot\Uploads\AcademicHistories\Marksheets\02cee8ae-1275-4484-b7df-ed1f081d41bc.pdf
+D:\.NET PROJECT\InternProjects\StudentRegistrationForm\wwwroot\Uploads\Documents\Citizenship\a436758b-4d84-41c6-b0f7-e6185180308d.jpg
+D:\.NET PROJECT\InternProjects\StudentRegistrationForm\wwwroot\Uploads\Documents\Signatures\bb20313e-a626-4234-b55f-c1e10114cc86.jpg
+D:\.NET PROJECT\InternProjects\StudentRegistrationForm\wwwroot\Uploads\Students\Photos\809f9c67-9fa8-4e1a-9136-1831d32fecf8.jpg

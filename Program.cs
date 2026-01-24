@@ -48,19 +48,16 @@ builder.Services.AddSwaggerGen();
 
 var app = builder.Build();
 
-// Allow frontend to read files
-app.UseStaticFiles(new StaticFileOptions
-{
-    FileProvider = new PhysicalFileProvider(Path.Combine(builder.Environment.ContentRootPath, "uploads")),
-    RequestPath = "/files",
-    ServeUnknownFileTypes = true
-});
-// In Program.cs, add:
-app.UseStaticFiles(new StaticFileOptions
-{
-    FileProvider = new PhysicalFileProvider(Path.Combine(builder.Environment.ContentRootPath, "uploads")),
-    RequestPath = "/uploads"
-});
+// Allow frontend to read files from wwwroot
+app.UseStaticFiles();
+
+//// Allow frontend to access uploads from wwwroot/Uploads
+//app.UseStaticFiles(new StaticFileOptions
+//{
+//    FileProvider = new PhysicalFileProvider(Path.Combine(app.Environment.WebRootPath, "Uploads")),
+//    RequestPath = "/uploads",
+//    ServeUnknownFileTypes = true
+//});
 
 if (app.Environment.IsDevelopment())
 {
